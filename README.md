@@ -48,4 +48,4 @@ src="https://img.shields.io/twitter/follow/ysarafat_bd?logo=twitter&style=for-th
 <br/>  
 
 <a href="http://www.github.com/ysarafat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ysarafat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysarafat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ysarafat)](https://github.com/c/github-readme-stats)
