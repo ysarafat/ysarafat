@@ -11,7 +11,7 @@ Experienced full-stack Web Developer with a passion for problem solving. Skilled
 src="https://img.shields.io/github/followers/ysarafat?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a><a href="https://www.twitter.com/ysarafat_bd" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/ysarafat_bd?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-<-- ### Skills
+<!-- ### Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
