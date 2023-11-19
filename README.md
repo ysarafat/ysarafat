@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Yeasir Arafat, a full-time MERN-stack developer 👨‍💻 working since 2021 🚀</div>  
+### <div align="left">I'm Yeasir Arafat, a full-time MERN-stack developer 👨‍💻 working since 2021 🚀</div>  
   
 
 - 🌱 I’m currently learning Hyperledger and Kubernetes  
