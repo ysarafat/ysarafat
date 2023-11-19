@@ -1,11 +1,21 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yeasir Arafat
-=====================================================================================================================================
+<div align="center">
+<img src="https://res.cloudinary.com/dg5l0clha/image/upload/v1700413350/ysarafat.com/sknoqtpumqb2xispmcp5.png" align="center" style="width: 100%" />
+</div>  
+  
 
-Experienced full-stack Web Developer with a passion for problem solving. Skilled in HTML5, CSS3, JavaScript, ReactJS and more. Ready to create amazing web experiences!
+### <div align="center">I'm Yeasir Arafat, a full-time MERN-stack developer 👨‍💻 working since 2021 🚀</div>  
+  
 
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [sb.yeasir@gmail.com](mailto:sb.ysarafat@gmail.com)
-* 🤝  I'm open to collaborating on Interesting projects
+- 🌱 I’m currently learning Hyperledger and Kubernetes  
+  
+
+- ❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+- ⚡ Fun fact: I use tabs over spaces  
+  
+
+<br/>  
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/ysarafat.bd) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ysarafat.bd) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ysarafat) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ysarafat_bd) 
