@@ -1,54 +1,72 @@
 <div align="center">
-<img src="https://res.cloudinary.com/dg5l0clha/image/upload/v1700413350/ysarafat.com/sknoqtpumqb2xispmcp5.png" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://res.cloudinary.com/dg5l0clha/image/upload/v1700413350/ysarafat.com/sknoqtpumqb2xispmcp5.png" style="width: 100%;" alt="Yeasir Arafat Banner" />
+</div>
 
-### <div align="left">I'm Yeasir Arafat, a full-time MERN-stack developer 👨‍💻 working since 2021 🚀</div>  
-  
+---
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-  
+<h3 align="center">Hi 👋, I'm Yeasir Arafat</h3>
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
+<p align="center">
+  🚀 Full-time <strong>MERN Stack Developer</strong> since 2021<br />
+  💡 Currently exploring <strong>Hyperledger</strong> & <strong>Kubernetes</strong><br />
+  🧠 Passionate about writing clean, scalable backend and frontend code<br />
+</p>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+---
 
-<br/>  
+### 🚀 About Me
+- 🔭 I’m currently working on scalable multi-tenant SaaS platforms  
+- 🧠 Love TypeScript, REST, GraphQL & all things DevOps  
+- 💬 Ask me about anything MERN-related, I'm happy to help  
+- ⚡ Fun fact: I prefer **tabs over spaces**  
 
-## Connect with me  
-<div align="center">
-<a href="https://github.com/ysarafat" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/ysarafat_bd" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/ysarafat" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/ysarafat.bd" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/ysarafat.bd" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+---
 
-<br/> 
+### 🌐 Connect with Me
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://github.com/ysarafat"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/ysarafat"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/ysarafat_bd"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://instagram.com/ysarafat.bd"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://facebook.com/ysarafat.bd"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+</p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ysarafat&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
+### 💻 Tech Stack
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ysarafat&theme=default&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-404D59.svg?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
 
+---
 
-<a href="http://www.github.com/ysarafat"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=ysarafat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ysarafat&show_icons=true&hide_border=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysarafat&layout=compact&hide_border=true&theme=tokyonight" width="48%"/>
+</p>
+
+---
+
+### 🧠 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ysarafat&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area=true&hide_border=true&custom_title=GitHub%20Activity%20Graph" alt="activity graph"/>
+</p>
+
+---
+
+> 🛠️ “Code is like humor. When you have to explain it, it’s bad.” — Cory House
 
